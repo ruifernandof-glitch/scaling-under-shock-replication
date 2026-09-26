@@ -1,0 +1,11 @@
+cmd_code,macrobloco_id,macrobloco,subgrupo
+8806,final,Plataformas finais e partes,Aeronaves nao tripuladas
+8807,final,Plataformas finais e partes,Partes
+850760,energy,"Energia, propulsao e eletronica",Baterias de ions de litio
+850131,energy,"Energia, propulsao e eletronica",Motores eletricos DC
+853400,energy,"Energia, propulsao e eletronica",Circuitos impressos
+8542,energy,"Energia, propulsao e eletronica",Circuitos integrados
+851762,control,"Comunicacao, navegacao e controle",Comunicacao de dados
+852691,control,"Comunicacao, navegacao e controle",Radionavegacao
+852580,control,"Comunicacao, navegacao e controle",Cameras e sensores
+852692,control,"Comunicacao, navegacao e controle",Radiocontrole

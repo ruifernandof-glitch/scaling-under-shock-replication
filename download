@@ -1,0 +1,24 @@
+# R/RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Credentials
+.Renviron
+.env
+*.key
+credentials*
+
+# OS/temp
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+~$*
+
+# Raw Comtrade/cache data
+01_raw_data/
+**/comtrade_*_raw.rds

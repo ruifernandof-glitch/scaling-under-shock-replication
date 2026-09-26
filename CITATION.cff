@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite both the manuscript and this replication package."
+type: software
+title: "Replication package: Scaling under shock — throughput pressure and transactional reconfiguration in Ukraine's drone-related import network"
+authors:
+  - family-names: "Ferreira"
+    given-names: "Rui Fernando Correia"
+version: "1.0.0"
+date-released: "2026-09-26"
+license: "MIT"
+preferred-citation:
+  type: article
+  title: "Scaling under shock: throughput pressure and transactional reconfiguration in Ukraine's drone-related import network"
+  authors:
+    - family-names: "Ferreira"
+      given-names: "Rui Fernando Correia"
+  journal: "International Journal of Operations & Production Management"
+  year: 2026
+  notes: "Manuscript ID IJOPM-04-2026-0601; under revision at the time of package preparation."
